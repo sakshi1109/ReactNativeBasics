@@ -43,6 +43,16 @@ export default function App() {
       >
         <Text>3</Text>
       </View>
+      <View
+        style={{
+          backgroundColor: 'orange',
+          flex: 4,
+          justifyContent: 'center',
+          alignItems: 'center'
+        }}
+      >
+        <Text>4</Text>
+      </View>
     </View>
   );
 }
